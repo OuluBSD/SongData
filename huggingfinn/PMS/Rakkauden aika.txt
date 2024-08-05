@@ -22,7 +22,7 @@ Hei tyttö, mikään ei kestä ikuisesti.
 Hei tyttö, vaikka se oli rakkauden aikaa,
 Hei tyttö, ei edes unissani en sua kaipaa.
 
-Verse 2
+[Verse 2]
 Hei tule poika tänne, niin mä sua kuritan.
 Rutistan sun pallit kasaan ja sua vähän kuristan.
 Muistan sen aina kun tuhosit tän tahallaan,
@@ -46,7 +46,7 @@ Hei tyttö, mikään ei kestä ikuisesti.
 Hei tyttö, vaikka se oli rakkauden aikaa,
 Hei tyttö, ei edes unissani en sua kaipaa.
 
-[Verse 2]
+[Verse 3]
 Koita tajuta, tää riitely ei joha mihinkään,
 mun sydän on kuuma, mutta sulla ei oo kipinää.
 Ai mä oon ruma, et viittis yllyttää,
